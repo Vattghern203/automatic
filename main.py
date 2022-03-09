@@ -15,7 +15,7 @@ pc.copy("https://www.youtube.com/watch?v=dQw4w9WgXcQ")
 pa.hotkey("ctrl", "v")
 pa.press("enter")
 
-t.sleep(3)
+t.sleep(5)
 pa.click(x=464, y=996)
 
 
